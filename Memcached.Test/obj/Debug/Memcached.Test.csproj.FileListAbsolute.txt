@@ -1,0 +1,17 @@
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\obj\Debug\Memcached.Test.csprojResolveAssemblyReference.cache
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\bin\Debug\Memcached.Test.exe.config
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\bin\Debug\Memcached.Test.exe
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\bin\Debug\Memcached.Test.pdb
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\bin\Debug\log4net.dll
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\bin\Debug\Memcached.Client.dll
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\bin\Debug\log4net.xml
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\bin\Debug\Memcached.Client.xml
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\obj\Debug\Memcached.Test.exe
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\obj\Debug\Memcached.Test.pdb
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\bin\Debug\CacheManageLib.dll
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\bin\Debug\StackExchange.Redis.dll
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\bin\Debug\Newtonsoft.Json.dll
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\bin\Debug\CacheManageLib.pdb
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\bin\Debug\StackExchange.Redis.xml
+E:\2017\6月份\LuceneDemo\CacheManageLib\Memcached.Test\bin\Debug\Newtonsoft.Json.xml
