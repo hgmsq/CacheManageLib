@@ -6,7 +6,7 @@ namespace Memcached.Test
     class Program
     {
         static void Main(string[] args)
-        {
+        {  
 
             var list = new string[]{"2","3","4" };
             MemcacheHelper.AddCache("testdb","第一次");
@@ -15,6 +15,14 @@ namespace Memcached.Test
             var obj = MemcacheHelper.GetCache("testdb");
        
             Console.WriteLine(obj);
+
+
+
+            redisHelper1.SetCache<string>("testkey", "hello redis");
+            Object oo = redisHelper1.GetValue<string>("testkey");
+            Console.WriteLine(oo);
+            redisHelper1.DelCache("testkey");
+            Console.ReadKey();
             //清除所有的缓存数据
             //MemCachedManager.cache.FlushAll();
 
